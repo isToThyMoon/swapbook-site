@@ -1,0 +1,9 @@
+Flask==2.1.2
+flask_login==0.6.1
+flask_mail==0.9.1
+flask_sqlalchemy==2.5.1
+itsdangerous==2.1.2
+requests==2.27.1
+SQLAlchemy==1.4.36
+Werkzeug==2.1.2
+WTForms==3.0.1
