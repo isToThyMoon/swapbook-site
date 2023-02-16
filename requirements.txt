@@ -5,5 +5,5 @@ flask_sqlalchemy==2.5.1
 itsdangerous==2.1.2
 requests==2.27.1
 SQLAlchemy==1.4.36
-Werkzeug==2.1.2
+Werkzeug==2.2.3
 WTForms==3.0.1
